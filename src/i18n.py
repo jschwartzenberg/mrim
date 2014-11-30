@@ -11,7 +11,7 @@ NOT_REGISTERED = "Вы не зарегистрированы на сервисе
 SEARCH = "Поиск"
 SEARCH_INSTRUCTION = "Заполните поля для поиска. Используйте звёздочку (*) для поиска по шаблону. \
 ВНИМАНИЕ: Вы не можете комбинировать e-mail с другими полями."
-SEARCH_NOTES = "Примечание: поиск ведётся только по адресам доменов @mail.ru, @list.ru, @bk.ru, @inbox.ru."
+SEARCH_NOTES = "Примечание: поиск ведётся только по адресам доменов @mail.ru, @list.ru, @bk.ru, @inbox.ru, @icqmail.com."
 SEARCH_NICK = "Ник"
 SEARCH_NAME = "Имя"
 SEARCH_LASTNAME = "Фамилия"
